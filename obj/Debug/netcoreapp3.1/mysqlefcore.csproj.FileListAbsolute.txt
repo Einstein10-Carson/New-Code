@@ -1,0 +1,3 @@
+C:\Users\Gloria\Desktop\https\New Code\mysqlefcore\obj\Debug\netcoreapp3.1\mysqlefcore.csprojAssemblyReference.cache
+C:\Users\Gloria\Desktop\https\New Code\mysqlefcore\obj\Debug\netcoreapp3.1\mysqlefcore.AssemblyInfoInputs.cache
+C:\Users\Gloria\Desktop\https\New Code\mysqlefcore\obj\Debug\netcoreapp3.1\mysqlefcore.AssemblyInfo.cs
